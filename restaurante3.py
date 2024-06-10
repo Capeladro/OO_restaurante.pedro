@@ -1,4 +1,5 @@
 
+
 #criando uma classe usando decoreitor @proprety
 
 class Restaurante:
